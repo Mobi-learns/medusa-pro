@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/Mobi-learns/medusa-pro.git
+	fetch = +refs/*:refs/*
+	mirror = true
+[remote "origini"]
+	url = https://github.com/Mobi-learns/medusa-pro.git
+	fetch = +refs/heads/*:refs/remotes/origini/*

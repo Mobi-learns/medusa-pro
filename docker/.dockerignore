@@ -1,0 +1,12 @@
+node_modules
+npm-debug.log
+.git
+.github
+.env
+Dockerfile
+docker-compose.yml
+node_modules
+npm-debug.log
+*.env
+logs/
+tests/
